@@ -1,0 +1,13 @@
+numero = int(input("informe qual tabua você quer: "))
+
+print("sua tabuada abaixo: ")
+print(f"{numero}x1={numero * 1}" )
+print(f"{numero}x2={numero * 2}" )
+print(f"{numero}x3={numero * 3}" )
+print(f"{numero}x4={numero * 4}" )
+print(f"{numero}x5={numero * 5}" )
+print(f"{numero}x6={numero * 6}" )
+print(f"{numero}x7={numero * 7}" )
+print(f"{numero}x8={numero * 8}" )
+print(f"{numero}x9={numero * 9}" )
+print(f"{numero}x10={numero * 10}")
